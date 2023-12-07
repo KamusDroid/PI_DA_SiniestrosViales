@@ -1,5 +1,7 @@
 # PROYECTO INDIVIDUAL - DATA ANALYST
+### WALTER MATIAS AMENGUAL
 
+![HENRY](https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png)
 
 ## Análisis de Accidentes de Tránsito en Argentina
 
@@ -43,9 +45,9 @@ En el marco del bootcamp de Data Science de Henry, asumo el rol de analista de d
 Quiero expresar mi agradecimiento a Henry, a los mentores y a la comunidad de estudiantes por su apoyo. También agradezco a mi familia por su paciencia y cariño, elementos fundamentales para alcanzar nuestros objetivos.
 
 ## Enlaces Relevantes
-ETL
-EDA
-DASHBOARD
-LinkedIn
+[ETL](https://github.com/KamusDroid/PI_DA_SiniestrosViales/blob/main/ETL.ipynb)
+[EDA](https://github.com/KamusDroid/PI_DA_SiniestrosViales/blob/main/EDA.ipynb)
+[DASHBOARD](https://github.com/KamusDroid/PI_DA_SiniestrosViales/blob/main/DASHBOARD.pbix)
+[LinkedIn](https://www.linkedin.com/in/sumakorama/)
 
 Saludos a todos los que lean este análisis, y espero una participación activa en este repositorio junto con un valioso feedback.
