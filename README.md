@@ -5,7 +5,9 @@
 
 ## Introducción
 
-Argentina ha alcanzado posiciones destacadas en Suramérica en relación con los accidentes de tránsito. En un censo realizado en 2015, el país se ubicó en el puesto Nº2 en el ranking de naciones con más fallecimientos debido a accidentes, tanto en entornos urbanos como en rutas del interior.
+Argentina ha alcanzado posiciones destacadas en Suramérica en relación con los accidentes de tránsito. En un censo realizado en 2017, el país se ubicó en el puesto Nº2 en el ranking de naciones con más fallecimientos debido a accidentes, tanto en entornos urbanos como en rutas del interior.
+
+!(assets/muertes-accidentes-trafico-mundo.png)
 
 Ninguna localidad del país está exenta de sufrir accidentes de este tipo. Los impactos de los accidentes de tránsito, además del costo económico a nivel privado y público, incluyen daños irreparables a nivel personal, físico y psicológico. Esto afecta a familias enteras, generando problemas jurídicos y destacando una significativa problemática a nivel socio-cultural.
 
