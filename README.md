@@ -46,8 +46,11 @@ Quiero expresar mi agradecimiento a Henry, a los mentores y a la comunidad de es
 
 ## Enlaces Relevantes
 [ETL](https://github.com/KamusDroid/PI_DA_SiniestrosViales/blob/main/ETL.ipynb)
+
 [EDA](https://github.com/KamusDroid/PI_DA_SiniestrosViales/blob/main/EDA.ipynb)
+
 [DASHBOARD](https://github.com/KamusDroid/PI_DA_SiniestrosViales/blob/main/DASHBOARD.pbix)
+
 [LinkedIn](https://www.linkedin.com/in/sumakorama/)
 
 Saludos a todos los que lean este análisis, y espero una participación activa en este repositorio junto con un valioso feedback.
