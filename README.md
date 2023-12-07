@@ -31,7 +31,7 @@ Para evitar estos incidentes o reducir su incidencia, se llevan a cabo diversas 
 
 En el marco del bootcamp de Data Science de Henry, asumo el rol de analista de datos para medir y analizar datos relacionados con accidentes de tránsito en Argentina, especificamente CABA. Iniciaré adquiriendo y analizando los datasets, corrigiendo errores y preparando la información para el análisis.
 
-![CABA](https://github.com/KamusDroid/PI_DA_SiniestrosViales/blob/main/mapa_obitos.html)
+![CABA](https://github.com/KamusDroid/PI_DA_SiniestrosViales/blob/main/assets/CABA.png)
 
 ## Herramientas Utilizadas
 
@@ -41,6 +41,7 @@ En el marco del bootcamp de Data Science de Henry, asumo el rol de analista de d
 * Power BI de Microsoft para la visualización de datos.
 * Python con bibliotecas como Pandas, Numpy, Matplotlib y Seaborn para el procesamiento y análisis de datos.
 * Jupyter Notebooks para el desarrollo y documentación del código.
+* Por supuesto Github
 
 ## Agradecimientos
 
